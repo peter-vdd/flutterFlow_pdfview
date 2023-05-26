@@ -12,6 +12,10 @@ import 'package:flutter/material.dart';
 
 import 'package:flutter_pdfview/flutter_pdfview.dart';
 import 'package:path_provider/path_provider.dart';
+import 'dart:io';
+import 'dart:async';
+import 'package:flutter/services.dart';
+import 'package:flutter/foundation.dart';
 
 class PdfView extends StatefulWidget {
   const PdfView({
