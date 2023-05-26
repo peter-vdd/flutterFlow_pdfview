@@ -6,6 +6,7 @@ pub.dev package: https://pub.dev/packages/flutter_pdfview
 Parameters: 
 
 docUrl (str) = PDF URL
+
 pageNr (int) = Page Number
 
 Pubspec Dependencies:
